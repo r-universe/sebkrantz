@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "collapse"]
+	path = collapse
+	url = https://github.com/sebkrantz/collapse
+	shallow = true
+	registered = true
+[submodule "fastverse"]
+	path = fastverse
+	url = https://github.com/sebkrantz/fastverse
+	shallow = true
+	registered = true
