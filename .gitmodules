@@ -8,8 +8,3 @@
 	url = https://github.com/sebkrantz/collapse
 	shallow = true
 	registered = true
-[submodule "fastverse"]
-	path = fastverse
-	url = https://github.com/sebkrantz/fastverse
-	shallow = true
-	registered = true

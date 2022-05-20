@@ -2,9 +2,5 @@
   {
     "package": "collapse",
     "oncran": true
-  },
-  {
-    "package": "fastverse",
-    "oncran": true
   }
 ]
