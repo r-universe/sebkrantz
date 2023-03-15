@@ -1,10 +1,10 @@
 [
   {
-    "package": "dfms",
+    "package": "collapse",
     "oncran": true
   },
   {
-    "package": "collapse",
+    "package": "dfms",
     "oncran": true
   }
 ]
