@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "africamonitor"]
+	path = africamonitor
+	url = https://github.com/cran/africamonitor
+	shallow = true
+	registered = true
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/sebkrantz/collapse
@@ -11,5 +16,10 @@
 [submodule "dfms"]
 	path = dfms
 	url = https://github.com/sebkrantz/dfms
+	shallow = true
+	registered = true
+[submodule "ugatsdb"]
+	path = ugatsdb
+	url = https://github.com/cran/ugatsdb
 	shallow = true
 	registered = true
