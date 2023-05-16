@@ -18,6 +18,11 @@
 	url = https://github.com/sebkrantz/dfms
 	shallow = true
 	registered = true
+[submodule "samadb"]
+	path = samadb
+	url = https://github.com/cran/samadb
+	shallow = true
+	registered = true
 [submodule "ugatsdb"]
 	path = ugatsdb
 	url = https://github.com/cran/ugatsdb
