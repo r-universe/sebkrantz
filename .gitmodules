@@ -11,6 +11,9 @@
 [submodule "dfms"]
 	path = dfms
 	url = https://github.com/sebkrantz/dfms
+[submodule "osmclass"]
+	path = osmclass
+	url = https://github.com/sebkrantz/osmclass
 [submodule "samadb"]
 	path = samadb
 	url = https://github.com/cran/samadb
