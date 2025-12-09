@@ -5,9 +5,6 @@
 [submodule "africamonitor"]
 	path = africamonitor
 	url = https://github.com/cran/africamonitor
-[submodule "collapse"]
-	path = collapse
-	url = https://github.com/sebkrantz/collapse
 [submodule "dfms"]
 	path = dfms
 	url = https://github.com/sebkrantz/dfms
