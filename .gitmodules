@@ -5,6 +5,9 @@
 [submodule "africamonitor"]
 	path = africamonitor
 	url = https://github.com/cran/africamonitor
+[submodule "flownet"]
+	path = flownet
+	url = https://github.com/sebkrantz/flownet
 [submodule "osmclass"]
 	path = osmclass
 	url = https://github.com/sebkrantz/osmclass
