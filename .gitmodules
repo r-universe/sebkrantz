@@ -8,6 +8,9 @@
 [submodule "flownet"]
 	path = flownet
 	url = https://github.com/sebkrantz/flownet
+[submodule "icio"]
+	path = icio
+	url = https://github.com/sebkrantz/icio
 [submodule "osmclass"]
 	path = osmclass
 	url = https://github.com/sebkrantz/osmclass
